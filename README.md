@@ -42,7 +42,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 *\
-Developed by:Thilai ajay.L
+Developed by:Thillai ajay.L
 RegisterNumber: 24008308
 
 *\
